@@ -1,4 +1,4 @@
-# My Week 1 Assessment
+# Week 1 Python Assessment Project
 
 This repository contains the tasks I worked on for my Week 1 Python and Data Engineering assessment.
 
@@ -43,4 +43,3 @@ The Jupyter Notebook is available in the `notebooks` folder.
 3. Finance has the highest average salary.
 4. Five employees earn more than 50000.
 5. Marketing has no employees in the employee dataset.
-This project was completed as part of my Week 1 assessment.
