@@ -43,3 +43,4 @@ The Jupyter Notebook is available in the `notebooks` folder.
 3. Finance has the highest average salary.
 4. Five employees earn more than 50000.
 5. Marketing has no employees in the employee dataset.
+This project was completed as part of my Week 1 assessment.
