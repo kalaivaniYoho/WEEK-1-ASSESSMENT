@@ -35,7 +35,7 @@ data_path = Path.cwd().parent / "data" / "employees.csv"
 employees = pd.read_csv(data_path)
 
 print("Total employees:", len(employees))
-display(employees.head())
+print(employees.head())
 
 # Department-wise employee count and average salary
 summary = employees.groupby("department").agg(
@@ -43,7 +43,7 @@ summary = employees.groupby("department").agg(
     average_salary=("salary", "mean")
 )
 
-display(summary)
+print(summary)
 
 
 # ## Performance Testing
@@ -56,5 +56,4 @@ display(summary)
 
 
 # Measure the execution time
-get_ipython().run_line_magic('timeit', 'employees["salary"].mean()')
-
+print("Average salary:", employees["salary"].mean())
