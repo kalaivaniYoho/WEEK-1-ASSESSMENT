@@ -1,4 +1,4 @@
-# Week 1 Assessment
+# Week 1 Python Assessment Project
 
 This repository contains the tasks I worked on for my Week 1 Python and Data Engineering assessment.
 
